@@ -22,7 +22,9 @@ Tugas Anda:
 Berdasarkan konfigurasi pada soal, dekripsi dilakukan dengan mensimulasikan mesin Enigma menggunakan tiga rotor dengan urutan II, III, I dari kanan ke kiri, ring setting P, M, H, posisi awal L, G, F, plugboard R-X dan G-A, serta reflector B. 
 Pada setiap karakter, rotor kanan bergerak terlebih dahulu dan mekanisme double stepping diterapkan pada rotor tengah dan kiri. 
 Setelah itu karakter melewati plugboard, rotor kanan, rotor tengah, rotor kiri, reflector, kemudian kembali melalui rotor kiri, rotor tengah, rotor kanan dan plugboard. 
+
 Hasil simulasi menghasilkan plaintext :
 HALORENDYNIMFDSELAMATMENGERJAKANSOALENIGMA
+
 Hasil tersebut diperoleh langsung dari simulasi Enigma
 berdasarkan konfigurasi yang diberikan pada soal.
